@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(99, 139, 203);
+}
+
+.container{
+    text-align: center;
+    margin-top:23px
+}
+
+table{
+    margin: auto;
+}
+
+input{
+    border-radius: 21px;
+    border: 2px solid #000000;
+    font-size:34px;
+    height: 65px;
+    width: 312px;
+    margin: 0 0 24px 0;
+}
+
+button{
+    border-radius: 16px;
+    font-size: 24px;
+    background: rgb(137, 201, 222);
+    width: 64px;
+    height: 64px;
+    margin: 6px;
+}
+
+.calculator{ 
+    border: 4px solid aliceblue;
+    background-color: aliceblue;
+    padding: 23px;
+    border-radius: 32px;
+    display: inline-block;
+    
+}
+
+h1{
+    font-size: 28px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: lighter;
+    color: #ffffff;
+}
+
+.no{
+    background-color: rgb(188, 218, 230);
+    color: darkslateblue;
+}
